@@ -9,6 +9,4 @@ Overview of steps as below
 * Create NAT gateway
 * Create route tables
 * Launch EC2 instance
-* Connect to EC2 using Session Manager - failed
-* Connecting to EC2 and pinging
-
+* Connect to EC2 using Session Manager and ping
